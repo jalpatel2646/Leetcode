@@ -22,8 +22,13 @@
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/jalpatel2646/Leetcode/tree/master/0392-is-subsequence) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/jalpatel2646/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/jalpatel2646/Leetcode/tree/master/0392-is-subsequence) |
+## Sliding Window
+|  |
+| ------- |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/jalpatel2646/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
