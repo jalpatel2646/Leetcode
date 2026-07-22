@@ -9,6 +9,7 @@
 ## Array
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/jalpatel2646/Leetcode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jalpatel2646/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/jalpatel2646/Leetcode/tree/master/0724-find-pivot-index) |
 ## Sorting
@@ -42,4 +43,8 @@
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/jalpatel2646/Leetcode/tree/master/0724-find-pivot-index) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/jalpatel2646/Leetcode/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
