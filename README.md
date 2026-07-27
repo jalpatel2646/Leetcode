@@ -6,6 +6,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/jalpatel2646/Leetcode/tree/master/0009-palindrome-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jalpatel2646/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1025-divisor-game](https://github.com/jalpatel2646/Leetcode/tree/master/1025-divisor-game) |
 ## Array
 |  |
 | ------- |
@@ -36,6 +37,7 @@
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/jalpatel2646/Leetcode/tree/master/0392-is-subsequence) |
+| [1025-divisor-game](https://github.com/jalpatel2646/Leetcode/tree/master/1025-divisor-game) |
 ## Sliding Window
 |  |
 | ------- |
@@ -57,4 +59,12 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/jalpatel2646/Leetcode/tree/master/0035-search-insert-position) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/jalpatel2646/Leetcode/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/jalpatel2646/Leetcode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
