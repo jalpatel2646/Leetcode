@@ -50,6 +50,7 @@
 | [0657-robot-return-to-origin](https://github.com/jalpatel2646/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/jalpatel2646/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/jalpatel2646/Leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/jalpatel2646/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -65,6 +66,7 @@
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/jalpatel2646/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/jalpatel2646/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Prefix Sum
 |  |
 | ------- |
