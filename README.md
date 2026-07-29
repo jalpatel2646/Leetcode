@@ -43,6 +43,7 @@
 | ------- |
 | [0392-is-subsequence](https://github.com/jalpatel2646/Leetcode/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/jalpatel2646/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0657-robot-return-to-origin](https://github.com/jalpatel2646/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/jalpatel2646/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/jalpatel2646/Leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
 ## Dynamic Programming
@@ -93,4 +94,8 @@
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jalpatel2646/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Simulation
+|  |
+| ------- |
+| [0657-robot-return-to-origin](https://github.com/jalpatel2646/Leetcode/tree/master/0657-robot-return-to-origin) |
 <!---LeetCode Topics End-->
