@@ -106,4 +106,8 @@
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/jalpatel2646/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [2974-minimum-number-game](https://github.com/jalpatel2646/Leetcode/tree/master/2974-minimum-number-game) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/jalpatel2646/Leetcode/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
