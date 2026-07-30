@@ -118,4 +118,5 @@
 | [0181-employees-earning-more-than-their-managers](https://github.com/jalpatel2646/Leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/jalpatel2646/Leetcode/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/jalpatel2646/Leetcode/tree/master/0183-customers-who-never-order) |
+| [1148-article-views-i](https://github.com/jalpatel2646/Leetcode/tree/master/1148-article-views-i) |
 <!---LeetCode Topics End-->
