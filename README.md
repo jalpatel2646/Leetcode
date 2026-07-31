@@ -26,6 +26,7 @@
 | [0896-monotonic-array](https://github.com/jalpatel2646/Leetcode/tree/master/0896-monotonic-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/jalpatel2646/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jalpatel2646/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1652-defuse-the-bomb](https://github.com/jalpatel2646/Leetcode/tree/master/1652-defuse-the-bomb) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/jalpatel2646/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2974-minimum-number-game](https://github.com/jalpatel2646/Leetcode/tree/master/2974-minimum-number-game) |
 | [3828-final-element-after-subarray-deletions](https://github.com/jalpatel2646/Leetcode/tree/master/3828-final-element-after-subarray-deletions) |
@@ -66,6 +67,7 @@
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/jalpatel2646/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/jalpatel2646/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1652-defuse-the-bomb](https://github.com/jalpatel2646/Leetcode/tree/master/1652-defuse-the-bomb) |
 ## Hash Table
 |  |
 | ------- |
