@@ -7,6 +7,7 @@
 | [0009-palindrome-number](https://github.com/jalpatel2646/Leetcode/tree/master/0009-palindrome-number) |
 | [0292-nim-game](https://github.com/jalpatel2646/Leetcode/tree/master/0292-nim-game) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jalpatel2646/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/jalpatel2646/Leetcode/tree/master/0877-stone-game) |
 | [0976-largest-perimeter-triangle](https://github.com/jalpatel2646/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1025-divisor-game](https://github.com/jalpatel2646/Leetcode/tree/master/1025-divisor-game) |
 | [1227-airplane-seat-assignment-probability](https://github.com/jalpatel2646/Leetcode/tree/master/1227-airplane-seat-assignment-probability) |
@@ -24,6 +25,7 @@
 | [0605-can-place-flowers](https://github.com/jalpatel2646/Leetcode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jalpatel2646/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/jalpatel2646/Leetcode/tree/master/0724-find-pivot-index) |
+| [0877-stone-game](https://github.com/jalpatel2646/Leetcode/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/jalpatel2646/Leetcode/tree/master/0896-monotonic-array) |
 | [0976-largest-perimeter-triangle](https://github.com/jalpatel2646/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/jalpatel2646/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -63,6 +65,7 @@
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/jalpatel2646/Leetcode/tree/master/0392-is-subsequence) |
+| [0877-stone-game](https://github.com/jalpatel2646/Leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/jalpatel2646/Leetcode/tree/master/1025-divisor-game) |
 | [1227-airplane-seat-assignment-probability](https://github.com/jalpatel2646/Leetcode/tree/master/1227-airplane-seat-assignment-probability) |
 ## Sliding Window
@@ -101,6 +104,7 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/jalpatel2646/Leetcode/tree/master/0292-nim-game) |
+| [0877-stone-game](https://github.com/jalpatel2646/Leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/jalpatel2646/Leetcode/tree/master/1025-divisor-game) |
 | [3828-final-element-after-subarray-deletions](https://github.com/jalpatel2646/Leetcode/tree/master/3828-final-element-after-subarray-deletions) |
 ## Probability and Statistics
