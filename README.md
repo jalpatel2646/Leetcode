@@ -130,6 +130,7 @@
 | [0183-customers-who-never-order](https://github.com/jalpatel2646/Leetcode/tree/master/0183-customers-who-never-order) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/jalpatel2646/Leetcode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/jalpatel2646/Leetcode/tree/master/0595-big-countries) |
+| [0627-swap-sex-of-employees](https://github.com/jalpatel2646/Leetcode/tree/master/0627-swap-sex-of-employees) |
 | [1068-product-sales-analysis-i](https://github.com/jalpatel2646/Leetcode/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/jalpatel2646/Leetcode/tree/master/1148-article-views-i) |
 | [1965-employees-with-missing-information](https://github.com/jalpatel2646/Leetcode/tree/master/1965-employees-with-missing-information) |
