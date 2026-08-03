@@ -133,4 +133,12 @@
 | [1068-product-sales-analysis-i](https://github.com/jalpatel2646/Leetcode/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/jalpatel2646/Leetcode/tree/master/1148-article-views-i) |
 | [1965-employees-with-missing-information](https://github.com/jalpatel2646/Leetcode/tree/master/1965-employees-with-missing-information) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/jalpatel2646/Leetcode/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/jalpatel2646/Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
