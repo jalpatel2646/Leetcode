@@ -131,6 +131,7 @@
 | [0196-delete-duplicate-emails](https://github.com/jalpatel2646/Leetcode/tree/master/0196-delete-duplicate-emails) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/jalpatel2646/Leetcode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/jalpatel2646/Leetcode/tree/master/0595-big-countries) |
+| [0596-classes-with-at-least-5-students](https://github.com/jalpatel2646/Leetcode/tree/master/0596-classes-with-at-least-5-students) |
 | [0627-swap-sex-of-employees](https://github.com/jalpatel2646/Leetcode/tree/master/0627-swap-sex-of-employees) |
 | [1068-product-sales-analysis-i](https://github.com/jalpatel2646/Leetcode/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/jalpatel2646/Leetcode/tree/master/1148-article-views-i) |
