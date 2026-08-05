@@ -48,6 +48,7 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/jalpatel2646/Leetcode/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/jalpatel2646/Leetcode/tree/master/0075-sort-colors) |
+| [0160-intersection-of-two-linked-lists](https://github.com/jalpatel2646/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0392-is-subsequence](https://github.com/jalpatel2646/Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/jalpatel2646/Leetcode/tree/master/0443-string-compression) |
 ## String
@@ -77,6 +78,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/jalpatel2646/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/jalpatel2646/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/jalpatel2646/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Prefix Sum
@@ -140,6 +142,7 @@
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/jalpatel2646/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/jalpatel2646/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/jalpatel2646/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/jalpatel2646/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 ## Recursion
