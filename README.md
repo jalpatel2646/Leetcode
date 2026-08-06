@@ -139,6 +139,7 @@
 | [0595-big-countries](https://github.com/jalpatel2646/Leetcode/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/jalpatel2646/Leetcode/tree/master/0596-classes-with-at-least-5-students) |
 | [0610-triangle-judgement](https://github.com/jalpatel2646/Leetcode/tree/master/0610-triangle-judgement) |
+| [0620-not-boring-movies](https://github.com/jalpatel2646/Leetcode/tree/master/0620-not-boring-movies) |
 | [0627-swap-sex-of-employees](https://github.com/jalpatel2646/Leetcode/tree/master/0627-swap-sex-of-employees) |
 | [1068-product-sales-analysis-i](https://github.com/jalpatel2646/Leetcode/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/jalpatel2646/Leetcode/tree/master/1148-article-views-i) |
