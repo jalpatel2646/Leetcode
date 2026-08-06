@@ -63,6 +63,7 @@
 | [1812-determine-color-of-a-chessboard-square](https://github.com/jalpatel2646/Leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/jalpatel2646/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/jalpatel2646/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3163-string-compression-iii](https://github.com/jalpatel2646/Leetcode/tree/master/3163-string-compression-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
