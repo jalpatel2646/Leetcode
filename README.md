@@ -48,6 +48,7 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/jalpatel2646/Leetcode/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/jalpatel2646/Leetcode/tree/master/0075-sort-colors) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/jalpatel2646/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/jalpatel2646/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/jalpatel2646/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0392-is-subsequence](https://github.com/jalpatel2646/Leetcode/tree/master/0392-is-subsequence) |
@@ -147,6 +148,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/jalpatel2646/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/jalpatel2646/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/jalpatel2646/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/jalpatel2646/Leetcode/tree/master/0206-reverse-linked-list) |
