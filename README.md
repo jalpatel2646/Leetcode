@@ -144,6 +144,7 @@
 | [0627-swap-sex-of-employees](https://github.com/jalpatel2646/Leetcode/tree/master/0627-swap-sex-of-employees) |
 | [1068-product-sales-analysis-i](https://github.com/jalpatel2646/Leetcode/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/jalpatel2646/Leetcode/tree/master/1148-article-views-i) |
+| [1729-find-followers-count](https://github.com/jalpatel2646/Leetcode/tree/master/1729-find-followers-count) |
 | [1965-employees-with-missing-information](https://github.com/jalpatel2646/Leetcode/tree/master/1965-employees-with-missing-information) |
 ## Linked List
 |  |
