@@ -36,6 +36,7 @@
 | [1652-defuse-the-bomb](https://github.com/jalpatel2646/Leetcode/tree/master/1652-defuse-the-bomb) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/jalpatel2646/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2974-minimum-number-game](https://github.com/jalpatel2646/Leetcode/tree/master/2974-minimum-number-game) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/jalpatel2646/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3828-final-element-after-subarray-deletions](https://github.com/jalpatel2646/Leetcode/tree/master/3828-final-element-after-subarray-deletions) |
 ## Sorting
 |  |
@@ -89,6 +90,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/jalpatel2646/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/jalpatel2646/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/jalpatel2646/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/jalpatel2646/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -167,6 +169,7 @@
 | [0234-palindrome-linked-list](https://github.com/jalpatel2646/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/jalpatel2646/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/jalpatel2646/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/jalpatel2646/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
 | ------- |
