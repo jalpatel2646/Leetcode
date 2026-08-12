@@ -174,6 +174,7 @@
 | [0234-palindrome-linked-list](https://github.com/jalpatel2646/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/jalpatel2646/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/jalpatel2646/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [2487-remove-nodes-from-linked-list](https://github.com/jalpatel2646/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/jalpatel2646/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
@@ -181,10 +182,12 @@
 | [0203-remove-linked-list-elements](https://github.com/jalpatel2646/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/jalpatel2646/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/jalpatel2646/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/jalpatel2646/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Stack
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/jalpatel2646/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/jalpatel2646/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Quicksort
 |  |
 | ------- |
@@ -193,4 +196,8 @@
 |  |
 | ------- |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/jalpatel2646/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/jalpatel2646/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
