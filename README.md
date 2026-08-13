@@ -31,6 +31,7 @@
 | [0877-stone-game](https://github.com/jalpatel2646/Leetcode/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/jalpatel2646/Leetcode/tree/master/0896-monotonic-array) |
 | [0976-largest-perimeter-triangle](https://github.com/jalpatel2646/Leetcode/tree/master/0976-largest-perimeter-triangle) |
+| [1019-next-greater-node-in-linked-list](https://github.com/jalpatel2646/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/jalpatel2646/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jalpatel2646/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1652-defuse-the-bomb](https://github.com/jalpatel2646/Leetcode/tree/master/1652-defuse-the-bomb) |
@@ -173,6 +174,7 @@
 | [0206-reverse-linked-list](https://github.com/jalpatel2646/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/jalpatel2646/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/jalpatel2646/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/jalpatel2646/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/jalpatel2646/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2487-remove-nodes-from-linked-list](https://github.com/jalpatel2646/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/jalpatel2646/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -187,6 +189,7 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/jalpatel2646/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/jalpatel2646/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/jalpatel2646/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Quicksort
 |  |
@@ -199,5 +202,6 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [1019-next-greater-node-in-linked-list](https://github.com/jalpatel2646/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/jalpatel2646/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
