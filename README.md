@@ -68,6 +68,7 @@
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/jalpatel2646/Leetcode/tree/master/0038-count-and-say) |
 | [0389-find-the-difference](https://github.com/jalpatel2646/Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/jalpatel2646/Leetcode/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/jalpatel2646/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
