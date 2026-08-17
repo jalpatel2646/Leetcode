@@ -31,6 +31,7 @@
 | [0724-find-pivot-index](https://github.com/jalpatel2646/Leetcode/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/jalpatel2646/Leetcode/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/jalpatel2646/Leetcode/tree/master/0896-monotonic-array) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/jalpatel2646/Leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0976-largest-perimeter-triangle](https://github.com/jalpatel2646/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1019-next-greater-node-in-linked-list](https://github.com/jalpatel2646/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/jalpatel2646/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -50,6 +51,7 @@
 | [0389-find-the-difference](https://github.com/jalpatel2646/Leetcode/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/jalpatel2646/Leetcode/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jalpatel2646/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/jalpatel2646/Leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0976-largest-perimeter-triangle](https://github.com/jalpatel2646/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jalpatel2646/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/jalpatel2646/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -112,6 +114,7 @@
 | ------- |
 | [0455-assign-cookies](https://github.com/jalpatel2646/Leetcode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/jalpatel2646/Leetcode/tree/master/0605-can-place-flowers) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/jalpatel2646/Leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0976-largest-perimeter-triangle](https://github.com/jalpatel2646/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/jalpatel2646/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/jalpatel2646/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -211,6 +214,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/jalpatel2646/Leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/jalpatel2646/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Monotonic Stack
 |  |
