@@ -38,6 +38,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jalpatel2646/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1652-defuse-the-bomb](https://github.com/jalpatel2646/Leetcode/tree/master/1652-defuse-the-bomb) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/jalpatel2646/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/jalpatel2646/Leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/jalpatel2646/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2974-minimum-number-game](https://github.com/jalpatel2646/Leetcode/tree/master/2974-minimum-number-game) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/jalpatel2646/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -116,6 +117,7 @@
 | [0605-can-place-flowers](https://github.com/jalpatel2646/Leetcode/tree/master/0605-can-place-flowers) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/jalpatel2646/Leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0976-largest-perimeter-triangle](https://github.com/jalpatel2646/Leetcode/tree/master/0976-largest-perimeter-triangle) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/jalpatel2646/Leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/jalpatel2646/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/jalpatel2646/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Binary Search
