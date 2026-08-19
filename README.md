@@ -14,6 +14,7 @@
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/jalpatel2646/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/jalpatel2646/Leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/jalpatel2646/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
+| [2396-strictly-palindromic-number](https://github.com/jalpatel2646/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2769-find-the-maximum-achievable-number](https://github.com/jalpatel2646/Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/jalpatel2646/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/jalpatel2646/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
@@ -70,6 +71,7 @@
 | [0392-is-subsequence](https://github.com/jalpatel2646/Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/jalpatel2646/Leetcode/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/jalpatel2646/Leetcode/tree/master/0455-assign-cookies) |
+| [2396-strictly-palindromic-number](https://github.com/jalpatel2646/Leetcode/tree/master/2396-strictly-palindromic-number) |
 ## String
 |  |
 | ------- |
@@ -131,6 +133,7 @@
 | [0292-nim-game](https://github.com/jalpatel2646/Leetcode/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/jalpatel2646/Leetcode/tree/master/1025-divisor-game) |
 | [1227-airplane-seat-assignment-probability](https://github.com/jalpatel2646/Leetcode/tree/master/1227-airplane-seat-assignment-probability) |
+| [2396-strictly-palindromic-number](https://github.com/jalpatel2646/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [3828-final-element-after-subarray-deletions](https://github.com/jalpatel2646/Leetcode/tree/master/3828-final-element-after-subarray-deletions) |
 ## Game Theory
 |  |
