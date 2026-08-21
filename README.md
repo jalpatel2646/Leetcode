@@ -27,6 +27,7 @@
 | [0035-search-insert-position](https://github.com/jalpatel2646/Leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/jalpatel2646/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/jalpatel2646/Leetcode/tree/master/0075-sort-colors) |
+| [0136-single-number](https://github.com/jalpatel2646/Leetcode/tree/master/0136-single-number) |
 | [0228-summary-ranges](https://github.com/jalpatel2646/Leetcode/tree/master/0228-summary-ranges) |
 | [0455-assign-cookies](https://github.com/jalpatel2646/Leetcode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/jalpatel2646/Leetcode/tree/master/0605-can-place-flowers) |
@@ -232,6 +233,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/jalpatel2646/Leetcode/tree/master/0136-single-number) |
 | [0389-find-the-difference](https://github.com/jalpatel2646/Leetcode/tree/master/0389-find-the-difference) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/jalpatel2646/Leetcode/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Doubly-Linked List
