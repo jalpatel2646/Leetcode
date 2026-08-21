@@ -196,6 +196,7 @@
 | [0206-reverse-linked-list](https://github.com/jalpatel2646/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/jalpatel2646/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/jalpatel2646/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/jalpatel2646/Leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/jalpatel2646/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/jalpatel2646/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2487-remove-nodes-from-linked-list](https://github.com/jalpatel2646/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
@@ -236,6 +237,7 @@
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/jalpatel2646/Leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/jalpatel2646/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Ordered Set
 |  |
@@ -245,4 +247,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/jalpatel2646/Leetcode/tree/master/0053-maximum-subarray) |
+## Depth-First Search
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/jalpatel2646/Leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
