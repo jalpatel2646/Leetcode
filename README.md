@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/jalpatel2646/Leetcode/tree/master/0009-palindrome-number) |
+| [0268-missing-number](https://github.com/jalpatel2646/Leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/jalpatel2646/Leetcode/tree/master/0292-nim-game) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jalpatel2646/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/jalpatel2646/Leetcode/tree/master/0877-stone-game) |
@@ -31,6 +32,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/jalpatel2646/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0136-single-number](https://github.com/jalpatel2646/Leetcode/tree/master/0136-single-number) |
 | [0228-summary-ranges](https://github.com/jalpatel2646/Leetcode/tree/master/0228-summary-ranges) |
+| [0268-missing-number](https://github.com/jalpatel2646/Leetcode/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/jalpatel2646/Leetcode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/jalpatel2646/Leetcode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jalpatel2646/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -56,6 +58,7 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/jalpatel2646/Leetcode/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/jalpatel2646/Leetcode/tree/master/0075-sort-colors) |
+| [0268-missing-number](https://github.com/jalpatel2646/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/jalpatel2646/Leetcode/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/jalpatel2646/Leetcode/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jalpatel2646/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -112,6 +115,7 @@
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/jalpatel2646/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/jalpatel2646/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0268-missing-number](https://github.com/jalpatel2646/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/jalpatel2646/Leetcode/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/jalpatel2646/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/jalpatel2646/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -137,6 +141,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/jalpatel2646/Leetcode/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/jalpatel2646/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0268-missing-number](https://github.com/jalpatel2646/Leetcode/tree/master/0268-missing-number) |
 ## Brainteaser
 |  |
 | ------- |
@@ -243,6 +248,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/jalpatel2646/Leetcode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/jalpatel2646/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/jalpatel2646/Leetcode/tree/master/0389-find-the-difference) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/jalpatel2646/Leetcode/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Doubly-Linked List
