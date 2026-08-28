@@ -26,6 +26,7 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/jalpatel2646/Leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jalpatel2646/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/jalpatel2646/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/jalpatel2646/Leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/jalpatel2646/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/jalpatel2646/Leetcode/tree/master/0075-sort-colors) |
@@ -73,6 +74,7 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/jalpatel2646/Leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jalpatel2646/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/jalpatel2646/Leetcode/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/jalpatel2646/Leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/jalpatel2646/Leetcode/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/jalpatel2646/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
