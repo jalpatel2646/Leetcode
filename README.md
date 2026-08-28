@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/jalpatel2646/Leetcode/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/jalpatel2646/Leetcode/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/jalpatel2646/Leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/jalpatel2646/Leetcode/tree/master/0292-nim-game) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jalpatel2646/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -29,6 +30,7 @@
 | [0027-remove-element](https://github.com/jalpatel2646/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/jalpatel2646/Leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/jalpatel2646/Leetcode/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/jalpatel2646/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/jalpatel2646/Leetcode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/jalpatel2646/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0136-single-number](https://github.com/jalpatel2646/Leetcode/tree/master/0136-single-number) |
