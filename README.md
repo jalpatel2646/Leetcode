@@ -6,6 +6,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/jalpatel2646/Leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/jalpatel2646/Leetcode/tree/master/0066-plus-one) |
+| [0231-power-of-two](https://github.com/jalpatel2646/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/jalpatel2646/Leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/jalpatel2646/Leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/jalpatel2646/Leetcode/tree/master/0326-power-of-three) |
@@ -229,6 +230,7 @@
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/jalpatel2646/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/jalpatel2646/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/jalpatel2646/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/jalpatel2646/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/jalpatel2646/Leetcode/tree/master/0326-power-of-three) |
 | [2487-remove-nodes-from-linked-list](https://github.com/jalpatel2646/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
@@ -256,6 +258,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/jalpatel2646/Leetcode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/jalpatel2646/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/jalpatel2646/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/jalpatel2646/Leetcode/tree/master/0389-find-the-difference) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/jalpatel2646/Leetcode/tree/master/3370-smallest-number-with-all-set-bits) |
