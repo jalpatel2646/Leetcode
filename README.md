@@ -10,6 +10,7 @@
 | [0268-missing-number](https://github.com/jalpatel2646/Leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/jalpatel2646/Leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/jalpatel2646/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/jalpatel2646/Leetcode/tree/master/0342-power-of-four) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jalpatel2646/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/jalpatel2646/Leetcode/tree/master/0877-stone-game) |
 | [0976-largest-perimeter-triangle](https://github.com/jalpatel2646/Leetcode/tree/master/0976-largest-perimeter-triangle) |
@@ -233,6 +234,7 @@
 | [0231-power-of-two](https://github.com/jalpatel2646/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/jalpatel2646/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/jalpatel2646/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/jalpatel2646/Leetcode/tree/master/0342-power-of-four) |
 | [2487-remove-nodes-from-linked-list](https://github.com/jalpatel2646/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Stack
 |  |
@@ -260,6 +262,7 @@
 | [0136-single-number](https://github.com/jalpatel2646/Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/jalpatel2646/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/jalpatel2646/Leetcode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/jalpatel2646/Leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/jalpatel2646/Leetcode/tree/master/0389-find-the-difference) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/jalpatel2646/Leetcode/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Doubly-Linked List
