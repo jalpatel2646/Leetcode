@@ -23,6 +23,7 @@
 | [2396-strictly-palindromic-number](https://github.com/jalpatel2646/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2769-find-the-maximum-achievable-number](https://github.com/jalpatel2646/Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/jalpatel2646/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/jalpatel2646/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/jalpatel2646/Leetcode/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3783-mirror-distance-of-an-integer](https://github.com/jalpatel2646/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3828-final-element-after-subarray-deletions](https://github.com/jalpatel2646/Leetcode/tree/master/3828-final-element-after-subarray-deletions) |
@@ -58,6 +59,7 @@
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/jalpatel2646/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2974-minimum-number-game](https://github.com/jalpatel2646/Leetcode/tree/master/2974-minimum-number-game) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/jalpatel2646/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/jalpatel2646/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/jalpatel2646/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/jalpatel2646/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3828-final-element-after-subarray-deletions](https://github.com/jalpatel2646/Leetcode/tree/master/3828-final-element-after-subarray-deletions) |
