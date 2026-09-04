@@ -12,6 +12,7 @@
 | [0292-nim-game](https://github.com/jalpatel2646/Leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/jalpatel2646/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/jalpatel2646/Leetcode/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/jalpatel2646/Leetcode/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jalpatel2646/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/jalpatel2646/Leetcode/tree/master/0877-stone-game) |
 | [0976-largest-perimeter-triangle](https://github.com/jalpatel2646/Leetcode/tree/master/0976-largest-perimeter-triangle) |
@@ -103,6 +104,7 @@
 | [0058-length-of-last-word](https://github.com/jalpatel2646/Leetcode/tree/master/0058-length-of-last-word) |
 | [0389-find-the-difference](https://github.com/jalpatel2646/Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/jalpatel2646/Leetcode/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/jalpatel2646/Leetcode/tree/master/0412-fizz-buzz) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/jalpatel2646/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/jalpatel2646/Leetcode/tree/master/0443-string-compression) |
 | [0657-robot-return-to-origin](https://github.com/jalpatel2646/Leetcode/tree/master/0657-robot-return-to-origin) |
@@ -187,6 +189,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/jalpatel2646/Leetcode/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/jalpatel2646/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [2974-minimum-number-game](https://github.com/jalpatel2646/Leetcode/tree/master/2974-minimum-number-game) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/jalpatel2646/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
