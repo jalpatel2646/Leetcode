@@ -23,6 +23,7 @@
 | [1812-determine-color-of-a-chessboard-square](https://github.com/jalpatel2646/Leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/jalpatel2646/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2396-strictly-palindromic-number](https://github.com/jalpatel2646/Leetcode/tree/master/2396-strictly-palindromic-number) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/jalpatel2646/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2769-find-the-maximum-achievable-number](https://github.com/jalpatel2646/Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/jalpatel2646/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/jalpatel2646/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
