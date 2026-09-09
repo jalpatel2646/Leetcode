@@ -48,6 +48,7 @@
 | [0268-missing-number](https://github.com/jalpatel2646/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/jalpatel2646/Leetcode/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/jalpatel2646/Leetcode/tree/master/0455-assign-cookies) |
+| [0496-next-greater-element-i](https://github.com/jalpatel2646/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/jalpatel2646/Leetcode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jalpatel2646/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/jalpatel2646/Leetcode/tree/master/0724-find-pivot-index) |
@@ -140,6 +141,7 @@
 | [0268-missing-number](https://github.com/jalpatel2646/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/jalpatel2646/Leetcode/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/jalpatel2646/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/jalpatel2646/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/jalpatel2646/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/jalpatel2646/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/jalpatel2646/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -256,6 +258,7 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/jalpatel2646/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/jalpatel2646/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1019-next-greater-node-in-linked-list](https://github.com/jalpatel2646/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/jalpatel2646/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Quicksort
@@ -270,6 +273,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/jalpatel2646/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1019-next-greater-node-in-linked-list](https://github.com/jalpatel2646/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/jalpatel2646/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Bit Manipulation
