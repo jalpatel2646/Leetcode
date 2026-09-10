@@ -29,6 +29,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/jalpatel2646/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/jalpatel2646/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/jalpatel2646/Leetcode/tree/master/3370-smallest-number-with-all-set-bits) |
+| [3492-maximum-containers-on-a-ship](https://github.com/jalpatel2646/Leetcode/tree/master/3492-maximum-containers-on-a-ship) |
 | [3783-mirror-distance-of-an-integer](https://github.com/jalpatel2646/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3828-final-element-after-subarray-deletions](https://github.com/jalpatel2646/Leetcode/tree/master/3828-final-element-after-subarray-deletions) |
 | [3945-digit-frequency-score](https://github.com/jalpatel2646/Leetcode/tree/master/3945-digit-frequency-score) |
