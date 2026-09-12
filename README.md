@@ -107,6 +107,7 @@
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/jalpatel2646/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0038-count-and-say](https://github.com/jalpatel2646/Leetcode/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/jalpatel2646/Leetcode/tree/master/0058-length-of-last-word) |
 | [0389-find-the-difference](https://github.com/jalpatel2646/Leetcode/tree/master/0389-find-the-difference) |
