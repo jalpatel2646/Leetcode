@@ -120,6 +120,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/jalpatel2646/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/jalpatel2646/Leetcode/tree/master/0443-string-compression) |
 | [0657-robot-return-to-origin](https://github.com/jalpatel2646/Leetcode/tree/master/0657-robot-return-to-origin) |
+| [0771-jewels-and-stones](https://github.com/jalpatel2646/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0917-reverse-only-letters](https://github.com/jalpatel2646/Leetcode/tree/master/0917-reverse-only-letters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/jalpatel2646/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/jalpatel2646/Leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
@@ -150,6 +151,7 @@
 | [0389-find-the-difference](https://github.com/jalpatel2646/Leetcode/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/jalpatel2646/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/jalpatel2646/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0771-jewels-and-stones](https://github.com/jalpatel2646/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/jalpatel2646/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/jalpatel2646/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/jalpatel2646/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
