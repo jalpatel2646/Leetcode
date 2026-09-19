@@ -52,6 +52,7 @@
 | [0496-next-greater-element-i](https://github.com/jalpatel2646/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/jalpatel2646/Leetcode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jalpatel2646/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0704-binary-search](https://github.com/jalpatel2646/Leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/jalpatel2646/Leetcode/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/jalpatel2646/Leetcode/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/jalpatel2646/Leetcode/tree/master/0896-monotonic-array) |
@@ -178,6 +179,7 @@
 | [0035-search-insert-position](https://github.com/jalpatel2646/Leetcode/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/jalpatel2646/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/jalpatel2646/Leetcode/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/jalpatel2646/Leetcode/tree/master/0704-binary-search) |
 ## Brainteaser
 |  |
 | ------- |
