@@ -129,6 +129,7 @@
 | [0771-jewels-and-stones](https://github.com/jalpatel2646/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0917-reverse-only-letters](https://github.com/jalpatel2646/Leetcode/tree/master/0917-reverse-only-letters) |
 | [1108-defanging-an-ip-address](https://github.com/jalpatel2646/Leetcode/tree/master/1108-defanging-an-ip-address) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/jalpatel2646/Leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/jalpatel2646/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/jalpatel2646/Leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/jalpatel2646/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -160,6 +161,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/jalpatel2646/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/jalpatel2646/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/jalpatel2646/Leetcode/tree/master/0771-jewels-and-stones) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/jalpatel2646/Leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/jalpatel2646/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/jalpatel2646/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/jalpatel2646/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -291,6 +293,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/jalpatel2646/Leetcode/tree/master/0169-majority-element) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/jalpatel2646/Leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/jalpatel2646/Leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/jalpatel2646/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Monotonic Stack
 |  |
