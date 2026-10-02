@@ -41,6 +41,7 @@
 | [0016-3sum-closest](https://github.com/jalpatel2646/Leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jalpatel2646/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/jalpatel2646/Leetcode/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/jalpatel2646/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/jalpatel2646/Leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/jalpatel2646/Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/jalpatel2646/Leetcode/tree/master/0066-plus-one) |
@@ -194,6 +195,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/jalpatel2646/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/jalpatel2646/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/jalpatel2646/Leetcode/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/jalpatel2646/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/jalpatel2646/Leetcode/tree/master/0268-missing-number) |
